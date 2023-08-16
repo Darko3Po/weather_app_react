@@ -40,7 +40,6 @@ const url = 'https://api.openweathermap.org/data/2.5/weather?q=$(location)&appid
         <div className="feels">
            <p className="bold">34°C</p>
            <p>Feels Like </p>
-           <p>Feels Like </p>
         </div>
          <div className="humidity">
            <p className="bold">20%</p>
